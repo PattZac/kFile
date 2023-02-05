@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\kFile\kFile\bin\Debug\kFile.exe.config
+C:\Users\unkno\source\repos\kFile\kFile\bin\Debug\kFile.exe
+C:\Users\unkno\source\repos\kFile\kFile\bin\Debug\kFile.pdb
+C:\Users\unkno\source\repos\kFile\kFile\obj\Debug\kFile.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\kFile\kFile\obj\Debug\kFile.exe
+C:\Users\unkno\source\repos\kFile\kFile\obj\Debug\kFile.pdb
